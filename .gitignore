@@ -1,0 +1,10 @@
+.*
+!/.gitignore
+*.pyc
+*.so
+*.o
+faster_rcnn_models
+data/*
+*.log
+*.out
+*.png
